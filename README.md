@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **tkeaton.cs@gmail.com**
 
-- 📄 Know about my experiences [https://violet-lynnelle-60.tiiny.site](https://violet-lynnelle-60.tiiny.site)
+- 📄 Know about my experiences [[https://violet-lynnelle-60.tiiny.site](https://violet-lynnelle-60.tiiny.site)](https://violet-lynnelle-60.tiiny.site)
 
 <h3 align="left">About Me: </h3>
 <p align=left"> My career path has taken a pretty interesting turn, from exploring the complexities of human psychology as a Licensed Professional Counselor to navigating the exciting challenges of Full-Stack engineering. Whether I'm helping a client walk through personal challenges or developing an app that makes someone's day a bit easier, my goal is the same - to make a positive impact.
@@ -15,7 +15,7 @@
 Transitioning from counseling to engineering was driven by my belief that at the heart of both fields is problem-solving and the desire to make a positive impact.</p>
 
 <h3 align="left">Codecademy Full-Stack-Engineer</h3>
-<a href="https://www.codecademy.com/profiles/taylorericson/certificates/ffd0f42cce1a44e9a0108b365047a0a6" target="blank">View Certificate</a>
+<a href="https://www.codecademy.com/profiles/taylorericson/certificates/ffd0f42cce1a44e9a0108b365047a0a6" target="blank">View Certification</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
