@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **as much as I can!**
 
-- 👨‍💻 All of my projects are available at [https://personal-portfolio-two-tan.vercel.app/](https://personal-portfolio-two-tan.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://tericson-portfolio-site.vercel.app/](https://tericson-portfolio-site.vercel.app/)
 
 - 📫 How to reach me **tkeaton.cs@gmail.com**
 
-- 📄 Know about my experiences [[https://violet-lynnelle-60.tiiny.site](https://violet-lynnelle-60.tiiny.site)](https://violet-lynnelle-60.tiiny.site)
+- 📄 Know about my experiences [https://violet-lynnelle-60.tiiny.site](https://violet-lynnelle-60.tiiny.site)
 
 <h3 align="left">About Me: </h3>
 <p align=left"> My career path has taken a pretty interesting turn, from exploring the complexities of human psychology as a Licensed Professional Counselor to navigating the exciting challenges of Full-Stack engineering. Whether I'm helping a client walk through personal challenges or developing an app that makes someone's day a bit easier, my goal is the same - to make a positive impact.
@@ -19,7 +19,7 @@ Transitioning from counseling to engineering was driven by my belief that at the
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/taylor-ericson-495263105/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/taylor-ericson-495263105/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/taylor-ericson-495263105/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="taylor-ericson-495263105/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
